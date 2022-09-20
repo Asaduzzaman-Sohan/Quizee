@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/green_btn.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/green_quiz.xml" value="0.251" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/red_btn.xml" value="0.251" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/round_back.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/round_back_white.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/round_back_white2.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/round_back_yellow.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/drawable/round_button_back.xml" value="0.248" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/layout/activity_main.xml" value="0.38333333333333336" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/layout/activity_question_list.xml" value="0.3692708333333333" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/layout/activity_quiz.xml" value="0.3692708333333333" />
+        <entry key="..\:/Learning/Android Development/Quizee/app/src/main/res/layout/activity_quiz_result.xml" value="0.38333333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
